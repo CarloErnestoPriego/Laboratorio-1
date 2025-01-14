@@ -10,6 +10,19 @@
     padding-top: 65px;
 }
 
+.pb-0 {
+    margin-left: 65px;
+    margin-right: 65px;
+    padding-top: 65px;
+}
+
+.pb {
+    margin-left: 65px;
+    margin-right: 65px;
+    color: darkgrey;
+    text-align: justify;
+}
+
 p {
     color: darkgrey;
     text-align: justify;
@@ -18,4 +31,8 @@ p {
 .image {
    height: 350px;
    width: 350px;
+}
+
+body {
+    background-color: #003366; /* Azul oscuro */
 }
