@@ -1,0 +1,21 @@
+.p1 {
+    padding-top: 65px;
+}
+
+.p2 {
+    padding-top: 16px;
+}
+
+.p3 {
+    padding-top: 65px;
+}
+
+p {
+    color: darkgrey;
+    text-align: justify;
+}
+
+.image {
+   height: 350px;
+   width: 350px;
+}
