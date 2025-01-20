@@ -33,3 +33,11 @@ p {
    width: 350px;
 }
 
+.bg-custom {
+    background-color: #d6dcdd;
+}
+
+.partners {
+    background-color: blue;
+}
+
