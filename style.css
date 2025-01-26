@@ -41,3 +41,6 @@ p {
     background-color: blue;
 }
 
+.texto-central {
+    align-content: center;
+}
